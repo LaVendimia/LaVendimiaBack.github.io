@@ -1,0 +1,10 @@
+{
+    "db": {
+        "dbname": "sql12255483",
+        "host": "sql12.freesqldatabase.com",
+        "username": "sql12255483",
+        "password": "zj7FKCuMF4",
+        "port":"3306"
+    },
+    "uriException": []
+}
